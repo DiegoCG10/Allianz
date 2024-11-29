@@ -10,7 +10,7 @@ import smtplib
 import openai
 
 # Cargar el logo
-st.image(r"C:\Users\diego\OneDrive\Documents\UP\8\Ingeniería finan VS\App_Allianz\logo_allianz.png", width=150)
+st.image("logo_allianz.png", width=150)
 
 # Título de la aplicación
 st.title("Simulador Comparativo de ETFs")
